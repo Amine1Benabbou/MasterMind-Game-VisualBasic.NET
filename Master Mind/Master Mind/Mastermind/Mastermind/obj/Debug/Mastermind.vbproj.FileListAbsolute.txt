@@ -1,0 +1,56 @@
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\bin\Debug\Mastermind.xml
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.vbprojAssemblyReference.cache
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.Resources.resources
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.vbproj.GenerateResource.cache
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.vbproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.xml
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.FormGame.resources
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.Form1.resources
+C:\Users\Pc\Desktop\2eme Année\Visual Basic\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.Form2.resources
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\bin\Debug\Mastermind.xml
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.vbproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.Form1.resources
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.Form2.resources
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.FormGame.resources
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.Resources.resources
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.vbproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.vbproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.xml
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.testform.resources
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.testmain.resources
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\bin\Debug\Mastermind.exe.manifest
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\bin\Debug\Mastermind.application
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.exe.manifest
+C:\Users\ibrah\OneDrive\Bureau\resvb\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.application
+C:\Users\Pc\Desktop\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.vbprojAssemblyReference.cache
+C:\Users\Pc\Desktop\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.Form1.resources
+C:\Users\Pc\Desktop\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.Form2.resources
+C:\Users\Pc\Desktop\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.FormGame.resources
+C:\Users\Pc\Desktop\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.testform.resources
+C:\Users\Pc\Desktop\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.testmain.resources
+C:\Users\Pc\Desktop\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.vbproj.GenerateResource.cache
+C:\Users\Pc\Desktop\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\Pc\Desktop\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.xml
+C:\Users\Pc\Desktop\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
+C:\Users\AMINE\Documents\Etude\Deuxieme Année\Visual Basic\Master Mind\better design\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.vbproj.AssemblyReference.cache
+C:\Users\AMINE\Documents\Etude\Deuxieme Année\Visual Basic\Master Mind\better design\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.vbproj.SuggestedBindingRedirects.cache
+C:\Users\AMINE\Documents\Etude\Deuxieme Année\Visual Basic\Master Mind\better design\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.Form1.resources
+C:\Users\AMINE\Documents\Etude\Deuxieme Année\Visual Basic\Master Mind\better design\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.Form2.resources
+C:\Users\AMINE\Documents\Etude\Deuxieme Année\Visual Basic\Master Mind\better design\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.FormGame.resources
+C:\Users\AMINE\Documents\Etude\Deuxieme Année\Visual Basic\Master Mind\better design\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.testform.resources
+C:\Users\AMINE\Documents\Etude\Deuxieme Année\Visual Basic\Master Mind\better design\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.testmain.resources
+C:\Users\AMINE\Documents\Etude\Deuxieme Année\Visual Basic\Master Mind\better design\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.vbproj.GenerateResource.cache
+C:\Users\AMINE\Documents\Etude\Deuxieme Année\Visual Basic\Master Mind\better design\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\AMINE\Documents\Etude\Deuxieme Année\Visual Basic\Master Mind\better design\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.xml
+C:\Users\AMINE\Documents\Etude\Deuxieme Année\Visual Basic\Master Mind\better design\Master Mind\Master Mind\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
